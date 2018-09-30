@@ -1,0 +1,3 @@
+rootProject.name = 'crashbot'
+
+include ':app'
